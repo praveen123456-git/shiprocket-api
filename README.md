@@ -2,7 +2,7 @@
 Shiprocket Api for codeigniter
 
 Usage ::
-laod this library in controllers
+load this library in controllers
 
 $this->load->library('shiprocket');
 
